@@ -1,6 +1,6 @@
 This contains a description of tests, allowed functions, and system calls for a simple UNIX command interpreter
 
-## Project Title
+# Project Title
 
 A brief description of what this project does and who it's for
 
@@ -12,7 +12,7 @@ A brief description of what this project does and who it's for
 
 
 
-## Documentation
+# Documentation
 
 [Documentation](https://linktodocumentation)
 
@@ -36,16 +36,16 @@ General
 - How to suspend the execution of a process until one of its children terminates
 - What is EOF / “end-of-file”?
 
-## Copyright - Plagiarism
+# Copyright - Plagiarism
 
 You are tasked to come up with solutions for the tasks below yourself to meet with the above learning objectives.
 You will not be able to meet the objectives of this or any following project by copying and pasting someone else’s work.
 You are not allowed to publish any content of this project.
 Any form of plagiarism is strictly forbidden and will result in removal from the program.
 
-## Requirements
+# Requirements
 
-# General
+## General
 
 Allowed editors: vi, vim, emacs
 All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
@@ -58,3 +58,6 @@ All your header files should be include guarded
 Use system calls only when you need to (why?)
 Write a README with the description of your project
 You should have an AUTHORS file at the root of your repository, listing all individuals having contributed content to the repository. Format, see Docker.
+
+## GitHub
+*There should be one project repository per group. If you and your partner have a repository with the same name in both your accounts, you risk a 0% score. Add your partner as a collaborator.*
