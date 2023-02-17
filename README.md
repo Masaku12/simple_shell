@@ -116,6 +116,40 @@ $ echo "qwerty" | ./././hsh
 <li> write (man 2 write) </li>
 </ul>
 
+<ul>
+<li><code>access</code>&nbsp;(man 2 access)</li>
+<li><code>chdir</code>&nbsp;(man 2 chdir)</li>
+<li><code>close</code>&nbsp;(man 2 close)</li>
+<li><code>closedir</code>&nbsp;(man 3 closedir)</li>
+<li><code>execve</code>&nbsp;(man 2 execve)</li>
+<li><code>exit</code>&nbsp;(man 3 exit)</li>
+<li><code>_exit</code>&nbsp;(man 2 _exit)</li>
+<li><code>fflush</code>&nbsp;(man 3 fflush)</li>
+<li><code>fork</code>&nbsp;(man 2 fork)</li>
+<li><code>free</code>&nbsp;(man 3 free)</li>
+<li><code>getcwd</code>&nbsp;(man 3 getcwd)</li>
+<li><code>getline</code>&nbsp;(man 3 getline)</li>
+<li><code>getpid</code>&nbsp;(man 2 getpid)</li>
+<li><code>isatty</code>&nbsp;(man 3 isatty)</li>
+<li><code>kill</code>&nbsp;(man 2 kill)</li>
+<li><code>malloc</code>&nbsp;(man 3 malloc)</li>
+<li><code>open</code>&nbsp;(man 2 open)</li>
+<li><code>opendir</code>&nbsp;(man 3 opendir)</li>
+<li><code>perror</code>&nbsp;(man 3 perror)</li>
+<li><code>read</code>&nbsp;(man 2 read)</li>
+<li><code>readdir</code>&nbsp;(man 3 readdir)</li>
+<li><code>signal</code>&nbsp;(man 2 signal)</li>
+<li><code>stat</code>&nbsp;(__xstat) (man 2 stat)</li>
+<li><code>lstat</code>&nbsp;(__lxstat) (man 2 lstat)</li>
+<li><code>fstat</code>&nbsp;(__fxstat) (man 2 fstat)</li>
+<li><code>strtok</code>&nbsp;(man 3 strtok)</li>
+<li><code>wait</code>&nbsp;(man 2 wait)</li>
+<li><code>waitpid</code>&nbsp;(man 2 waitpid)</li>
+<li><code>wait3</code>&nbsp;(man 2 wait3)</li>
+<li><code>wait4</code>&nbsp;(man 2 wait4)</li>
+<li><code>write</code>&nbsp;(man 2 write)</li>
+</ul>
+
 # Compilation
 Your shell will be compiled this way:
 
